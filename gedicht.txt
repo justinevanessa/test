@@ -4,3 +4,4 @@ Rot
 Blau 
 Grün
 Gelb
+Magenta
